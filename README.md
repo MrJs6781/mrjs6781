@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">A Passionate Programmer about coding, transforming thoughts into pixels and functions.</h3>
-<h4 align="center">My friends call me Sinior </h4>
+<h4 align="center">My friends call me Yazdan </h4>
 <br/>
 
 <div align="center">
@@ -21,14 +21,6 @@
 <div align="center"> 
   <a href = "mailto:mr.js.programmer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <a href ="https://wonderful.dev/saeedsoodi" target="_blank">
-    <img src="https://img.shields.io/badge/Wonderful.dev-black?style=for-the-badge"/></a>
-    
-   <a href ="https://wakatime.com/@018da999-df4c-4fff-971b-06cddf39324c" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-red?style=for-the-badge"/></a>
-    
-  <a href=""><img src="![Static Badge](https://img.shields.io/badge/WakaTime-orange?style=flat)"/></a>
 
 </div>
  <hr/>
@@ -51,6 +43,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saeid-Soodi&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <br/>
 <hr/>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 </div>
