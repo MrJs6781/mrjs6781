@@ -1,46 +1,89 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Abolfazl+Javadineya!;" />
-</h1>
+# Hey, I'm Abolfazl! 👨‍💻
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=2000&lines=if+its+diamond💎;+It's+Mine!;" />
-</h1>
+_Senior Front-End Developer specializing in React, Next.js, and TypeScript. Passionate about building scalable, performant, and user-friendly web applications._
 
-<h3 align="center">A Passionate Programmer about coding, transforming thoughts into pixels and functions.</h3>
-<h4 align="center">My friends call me Yazdan </h4>
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working on **my website (coming soon)**
- 
- 🌱 I’m currently learning **React.js, Next.js**
+## 🚀 About Me
 
-💬 Ask me about **js, React, tailwind... or anything [here](https://github.com/mrjs6781/mrjs6781/issues)**
+I'm **Abolfazl Javadineya**, known as **Yazdan**, a Senior Front-End Developer with over three years of experience delivering high-quality web applications. I specialize in **React**, **Next.js (SSR)**, and **TypeScript**, with a knack for creating seamless user experiences through clean code and optimized performance. I've worked on international projects like the **World Government Summit**, collaborating with global teams to ship pixel-perfect interfaces.
 
-<div align="center"> 
-  <a href = "mailto:mr.js.programmer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+🔭 **Currently working on**: My personal portfolio website (coming soon!)\
+🌱 **Learning**: Advanced Next.js, GraphQL, and UI/UX design\
+💬 **Ask me about**: React, Next.js, Tailwind CSS, or performance optimization\
+📫 **Reach out**: Email | LinkedIn | GitHub | Medium
 
-</div>
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,npm" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,react,threejs,nodejs" /><br>
-     <img src="https://skillicons.dev/icons?i=figma" /><br>
+---
 
-</div>
-<div>
-    <br>
-    <h2 align="center"> Persistence is the master key to the gates of success.</h2>
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrjs6781&theme=vue-dark&hide_border=false)<br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjs6781&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-<br/>
-<hr/>
-</div>
+## 🛠️ Skills
+
+### Front-End Development
+
+### Styling
+
+### APIs & State Management
+
+### Tools & Workflow
+
+---
+
+## 💻 Featured Projects
+
+### World Government Summit
+
+**Lead Front-End Developer**\
+Developed a high-profile international web platform with Next.js (SSR), TypeScript, and Tailwind CSS, integrated with Sitefinity CMS via GraphQL. Optimized for performance and accessibility using Lighthouse.\
+_Tech_: Next.js, TypeScript, Tailwind CSS, ShadCN, Radix UI, GraphQL, Jest, Lighthouse\
+GitHub | Live Demo
+
+### Digbrile
+
+**Front-End Developer**\
+Built a Link-in-Bio platform with a 2D drag-and-drop interface using Next.js, TypeScript, and Firebase. Deployed on Vercel for fast, responsive performance.\
+_Tech_: Next.js, TypeScript, Firebase, REST API, Zustand, Tailwind CSS, Vercel\
+GitHub | Live Demo
+
+### Next ShadCN Dashboard
+
+**Front-End Developer**\
+Created a dynamic, responsive dashboard with modular components using Next.js, TypeScript, and ShadCN. Optimized build with Vite and tested with Jest.\
+_Tech_: Next.js, TypeScript, ShadCN, Zustand, Jest, Vite, Lighthouse\
+GitHub
+
+### 3D Globe
+
+**Front-End Developer**\
+Developed an interactive 3D globe for educational purposes with Next.js and TypeScript, featuring smooth animations and clickable visuals.\
+_Tech_: Next.js, TypeScript, Webpack, Lighthouse\
+GitHub
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering**\
+Hakim Sabzevari University, Sabzevar, Iran\
+_Expected Graduation: 2025_
+
+---
+
+## 🌐 Languages
+
+- **Persian**: Native
+- **English**: Intermediate (B1, actively improving)
+
+---
+
+## 📬 Let's Connect!
+
+I'm always excited to collaborate on innovative projects or discuss the latest in web development. Reach out to me!\
+📧 Email\
+🔗 LinkedIn\
+🌐 GitHub\
+✍️ Medium
+
+_"Code is like a diamond: it shines when crafted with precision and passion." 💎_
